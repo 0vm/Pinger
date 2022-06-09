@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 
 
-namespace Pinger
+namespace ConsoleApp2
 {
     internal class Program
     {
@@ -31,7 +31,6 @@ namespace Pinger
 
                 var s = "        "; // 8 spaces for the titles spacing, looks very messy but who cares.
 
-                fortnite:
                 Thread.CurrentThread.IsBackground = true;
                 for (int i = 0; i < int.MaxValue; i++)
                 //{
@@ -80,8 +79,9 @@ namespace Pinger
             Console.WriteLine();
             if (response == ConsoleKey.Y)
             {
-               log = 1;
-            }else
+                log = 1;
+            }
+            else
             {
                 log = 0;
             }
@@ -134,6 +134,7 @@ namespace Pinger
                     }
                 }
             }).Start();
+            Thread.Sleep(-1);
         }
     }
 }

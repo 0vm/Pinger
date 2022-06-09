@@ -9,8 +9,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("IP Pinger?")]
-[assembly: AssemblyCopyright("Copyright © 0vm & zf9 2022")]
+[assembly: AssemblyProduct("IP Pinger")]
+[assembly: AssemblyCopyright("Copyright © 0vm 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9e503346-e531-4ee3-a777-087d4a89bc14")]
+[assembly: Guid("434EA5CF-16D4-47B2-9AB9-DC8F39704739")]
 
 // Version information for an assembly consists of the following four values:
 //

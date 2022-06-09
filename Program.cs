@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 
 
-namespace ConsoleApp2
+namespace Pinger
 {
     internal class Program
     {

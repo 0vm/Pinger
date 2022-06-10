@@ -1,7 +1,21 @@
 # Pinger
 A Fast IP Pinger, An Open source IP Pinger that can log downtime, can ping URL's, IPv4 and IPv6.
 If this gets enough attention i'll make a linux version.
-https://user-images.githubusercontent.com/79897291/172978821-243d33ed-3ad3-4f42-a553-e2f59b79934e.mp4
+
+
+# Preview
+Quick Version
+
+![quic](https://user-images.githubusercontent.com/79897291/172980036-7e618152-c791-427e-80a0-c4d339c0a1b5.gif)
+
+Extended Version
+
+<a href="https://user-images.githubusercontent.com/79897291/172980150-b05d39de-480e-4ebe-87d0-5f76b4c450f6.mp4" target="_blank">Full Video</a>
+
+
+
+
+
 
 
 

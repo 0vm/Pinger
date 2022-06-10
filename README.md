@@ -1,6 +1,7 @@
 # Pinger
 A Fast IP Pinger, An Open source IP Pinger that can log downtime, can ping URL's, IPv4 and IPv6.
 If this gets enough attention i'll make a linux version.
+So far this has helped <img src="https://komarev.com/ghpvc/?username=0vm-pingerview&label=&color=brightgreen&style=flat-square" alt="0vm-pingerview" />  people, Please consider leaving a star :)
 
 
 # Preview
@@ -53,5 +54,5 @@ https://github.com/zf9/Ping-Thing
 
 # Tags To Help People Find This
 Rapid IP Pinger, IP Pinger, Fast IP Pinger, Server Downtime Logger, Downtime Logger, IP Logger, IP Pinger With Timestamps, Connection Timed Out.
-So Far This Has Helped <img src="https://komarev.com/ghpvc/?username=0vm-pingerview&label=&color=brightgreen&style=flat-square" alt="0vm-pingerview" />  People
+
 

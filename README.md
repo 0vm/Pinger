@@ -53,5 +53,5 @@ https://github.com/zf9/Ping-Thing
 
 # Tags To Help People Find This
 Rapid IP Pinger, IP Pinger, Fast IP Pinger, Server Downtime Logger, Downtime Logger, IP Logger, IP Pinger With Timestamps, Connection Timed Out.
-So Far This Has Helped <img src="https://komarev.com/ghpvc/?username=0vm-pingerview&label=&color=brightgreen&style=for-the-badge" alt="0vm-pingerview" />  People
+So Far This Has Helped <img src="https://komarev.com/ghpvc/?username=0vm-pingerview&label=&color=brightgreen&style=flat-square" alt="0vm-pingerview" />  People
 

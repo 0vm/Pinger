@@ -13,6 +13,7 @@ Extended Version
 
 <a href="https://user-images.githubusercontent.com/79897291/172980150-b05d39de-480e-4ebe-87d0-5f76b4c450f6.mp4" target="_blank">Full Video</a>
 
+(I do not condone any actions of foreign governments, the wallpaper is an old meme)
 
 
 

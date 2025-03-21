@@ -27,16 +27,16 @@ Extended Version
 * Now shows when it times out (original didn't)
 * Title Loops Through Different Texts, Has a built in time counter, to show how long you have been pinging / had the application open.
 * Shows the timeouts on the title bar, for easy access and for overnight monitoring.
-* Ability to ping: IPv4, URL's and IPv6(if your ISP gives you an address).
+* Ability to ping: IPv4, URL's and IPv6 (if your ISP gives you an address).
 * Timeout is set to 1.5 seconds just to remove the possibility of a false positive timeout, though it may still occur
 
 
 
 # Uses To This
-* Can be used as a downtime checker for something that is not very important. (For something more important I would recommend having a cronjob on your server making a request every minute to check if it is down and to run a pcap to see if it a ddos attack or some sort of exploit)
-* Can show timestamps of when your internet goes down incase your isp requires evidence.
-* Can show when the IP you are pinging goes down or spikes to see if your friend is actually lagging or if they just suck. 
-* Honestly a lot more, i just cant name them its currently 1:16am and i feel like dying inside.
+* Can be used as a downtime checker for something that is not very important. (For something more important I would recommend having a cronjob on your server making a request every minute to check if it is down and to run a pcap to see if it a DDoS attack or some sort of exploit)
+* Can show timestamps of when your internet goes down incase your ISP requires evidence.
+* Can show when the IP you are pinging goes down or spikes to see if your friend is actually lagging. 
+* Honestly a lot more, I just cant name them its currently 1:16am and i feel like dying inside.
 
 
 
